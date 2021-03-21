@@ -11,6 +11,7 @@
 		4F392D9C25FC19470095E075 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F392D9B25FC19470095E075 /* LoginViewController.swift */; };
 		4F392DA125FC19560095E075 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F392DA025FC19560095E075 /* FeedViewController.swift */; };
 		4F5475AC25FC384200F4B2E2 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F5475AB25FC384200F4B2E2 /* PostCell.swift */; };
+		4FAF368F2607BAC200136F91 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FAF368E2607BAC200136F91 /* CommentCell.swift */; };
 		4FB2471A25FC173600562D1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB2471925FC173600562D1D /* AppDelegate.swift */; };
 		4FB2471C25FC173600562D1D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB2471B25FC173600562D1D /* SceneDelegate.swift */; };
 		4FB2472125FC173600562D1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB2471F25FC173600562D1D /* Main.storyboard */; };
@@ -48,6 +49,7 @@
 		4F392D9B25FC19470095E075 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		4F392DA025FC19560095E075 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		4F5475AB25FC384200F4B2E2 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		4FAF368E2607BAC200136F91 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		4FB2471625FC173600562D1D /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FB2471925FC173600562D1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FB2471B25FC173600562D1D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				4F392D9B25FC19470095E075 /* LoginViewController.swift */,
 				4F5475AB25FC384200F4B2E2 /* PostCell.swift */,
 				4FB2472425FC173700562D1D /* LaunchScreen.storyboard */,
+				4FAF368E2607BAC200136F91 /* CommentCell.swift */,
 				4F20765025FC2AAF00E46C64 /* CameraViewController.swift */,
 				4F392DA025FC19560095E075 /* FeedViewController.swift */,
 				4FB2472725FC173700562D1D /* Info.plist */,
@@ -421,6 +424,7 @@
 				4F392DA125FC19560095E075 /* FeedViewController.swift in Sources */,
 				4FB2471C25FC173600562D1D /* SceneDelegate.swift in Sources */,
 				4F5475AC25FC384200F4B2E2 /* PostCell.swift in Sources */,
+				4FAF368F2607BAC200136F91 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
